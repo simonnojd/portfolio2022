@@ -1,38 +1,65 @@
-.App {
-  text-align: center;
+html {
+  scroll-behavior: smooth;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #063752;
+  color: white;
+  font-family: "Readex Pro", sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+img {
+  margin-top: 3%;
+  margin-left: 3%;
+  width: 15%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+td {
+  font-size: small;
+}
+
+.table {
+  margin-bottom: 40vh;
+}
+
+.btn-primary {
+  background-color: white !important;
+  color: #063752;
+  border-color: #063752;
+}
+
+.btn-primary:hover {
+  background-color: #063752 !important;
+  color: white;
+  border-color: white;
+}
+
+.btn-primary:disabled {
+  border-color: #949ea3;
+  color: #949ea3;
+}
+
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #063752 !important;
+  color: white;
+  border-color: white;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.table {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#itemType {
+  color: #063752;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.header {
+  font-size: 60px;
+}
+
+.aboutMeHeader {
+  font-size: 45px;
 }
