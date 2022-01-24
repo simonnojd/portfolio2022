@@ -4,7 +4,7 @@ import image from "../images/test.jpg";
 export default class AboutMe extends Component {
   render() {
     return (
-      <div className="container">
+      <div className="container p-10">
         <div className="row">
           <div className="col-md-5">
             <h2 className="aboutMeHeader">Om mig</h2>
