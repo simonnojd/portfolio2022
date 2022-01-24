@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simonnojd/portfolio2022/static/css/main.a6924020.css",
+    "main.js": "/simonnojd/portfolio2022/static/js/main.844d4f0b.js",
+    "static/media/me.jpg": "/simonnojd/portfolio2022/static/media/me.abe6a2e85b0b91bf96b4.jpg",
+    "static/media/CV.pdf": "/simonnojd/portfolio2022/static/media/CV.218425ccf5fc9350b9d6.pdf",
+    "index.html": "/simonnojd/portfolio2022/index.html",
+    "main.a6924020.css.map": "/simonnojd/portfolio2022/static/css/main.a6924020.css.map",
+    "main.844d4f0b.js.map": "/simonnojd/portfolio2022/static/js/main.844d4f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6924020.css",
+    "static/js/main.844d4f0b.js"
+  ]
+}
