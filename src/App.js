@@ -51,7 +51,7 @@ class App extends React.Component {
             clickHandler={this.clickHandler}
           />
           <Button
-            name="Contact"
+            name="Kontakt"
             component={<Contact clickHandler={this.clickHandler} />}
             clickHandler={this.clickHandler}
           />
