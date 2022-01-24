@@ -7,10 +7,6 @@ export default class Contact extends Component {
         <div className="row">
           <div className="col-md-5">
             <h2 className="aboutMeHeader">Kontakta mig</h2>
-            <p>
-              Om du tycker att jag verkar vara en intressant person så är det
-              bara att höra av dig!
-            </p>
             <li>Mail: simon.nojd.jobb@gmail.com</li>
             <li>
               <a

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import image from "../images/test.jpg";
+import image from "../images/me.jpg";
 
 export default class AboutMe extends Component {
   render() {

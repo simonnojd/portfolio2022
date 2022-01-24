@@ -36,7 +36,7 @@ class App extends React.Component {
           }}
         >
           <Button
-            name="Om mig"
+            name="Om"
             component={<AboutMe clickHandler={this.clickHandler} />}
             clickHandler={this.clickHandler}
           />
